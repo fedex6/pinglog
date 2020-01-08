@@ -18,5 +18,7 @@ Suponiendo que el archivo lo ponemos en la carpeta /home/[USER]/bots/ asi deberi
 ```
 De esta manera, se va a ejecutar cada 5 minutos, todo el tiempo.
 
+***
+
 ### Mejoras
 Es la primer version basica, en cuanto pueda hare uno que guarde la velocidad promedio y sea levantable (?) por una planilla de calculos.
