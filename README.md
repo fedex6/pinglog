@@ -12,9 +12,9 @@ Yo lo hago mediante crontab
 ```
 crontab -e
 ```
-Suponiendo que el archivo lo ponemos en la carpeta _/home/[USER]/bots/_ asi deberia estar el archivo
+Suponiendo que el archivo lo ponemos en la carpeta _/home/[USER]/pinglog/_ asi deberia estar el archivo
 ```
-*/5 * * * *   python /home/[USER]/bots/check_internet.py
+*/5 * * * *   python /home/[USER]/pinglog/check_internet.py
 ```
 De esta manera, se va a ejecutar cada 5 minutos, todo el tiempo.
 
